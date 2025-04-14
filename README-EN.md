@@ -1,4 +1,4 @@
-Analysis of Vehicle Registration in Argentina
+# Analysis of Vehicle Registration in Argentina
 
 This report presents a descriptive analysis of car sales in Argentina between 2019 and 2024, based on vehicle registration data.
 
