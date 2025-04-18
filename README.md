@@ -355,7 +355,6 @@ La tendencia hacia autos del Protocolo 21 sugiere un aumento en la importación 
 
 8\. Tipo de Uso de los Automotores
 
-8.1. Porcentaje de Inscripciones de Autos Según Tipo de Uso
 
 ![Porcentaje de Inscripciones de Autos Según Tipo de Uso](images/automotor_tipo_de_uso.png)
 
@@ -383,7 +382,7 @@ El mercado automotriz está claramente orientado al uso privado, con una partici
 
 9\. Modelos de Automotores por Año y Origen
 
-![Modelos de Automotores por Año y Origen](images/recuento_origen_automotor.png.png)
+![Modelos de Automotores por Año y Origen](images/recuento_origen_automotor.png)
 
 -   Descripción: Este gráfico de barras apiladas muestra la cantidad de autos por año de modelo y origen (nacional, importado, protocolo 21).
 

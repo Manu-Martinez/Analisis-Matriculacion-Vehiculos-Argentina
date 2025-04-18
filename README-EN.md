@@ -12,7 +12,7 @@ This report provides a descriptive analysis of car sales in Argentina from 2019 
 
 1\. Total Car Sales by Year (2019-2024)
 
-Chart: Total Car Sales by Year
+![Total Car Sales by Year](images/ventas_totales_anual.png)
 
 -   Description: This line chart shows the evolution of total car sales from 2019 to 2024.
 
@@ -44,7 +44,7 @@ Conclusion: The general trend indicates a post-pandemic recovery, and the stabil
 
 2\. Sales of the Most Popular Brands by Year (2019-2024)
 
-Chart: Sales of the Most Popular Brands by Year
+![Sales of the Most Popular Brands by Year](images/marcas_populares.png)
 
 -   Description: This multi-line chart shows the sales of the top 10 brands (Toyota, Volkswagen, Fiat, Renault, Ford, Chevrolet, Peugeot, Nissan, Citroën, Jeep) over the years.
 
@@ -74,7 +74,7 @@ Conclusion: The market is dominated by Toyota, Volkswagen, and Fiat, while other
 
 3\. Most Sold Vehicle Types
 
-Chart: Total Sales of Vehicle Types by Year
+![Total Sales of Vehicle Types by Year](images/autos_populares.png)
 
 -   Description: This horizontal bar chart shows the count of units sold by vehicle type (5-door sedan, 4-door sedan, pick-up, 5-door station wagon, etc.) for each year.
 
@@ -100,7 +100,7 @@ Conclusion: The Argentine market continues to prefer 5-door sedans, but there is
 
 4\. Count of Best-Selling Brands by Year
 
-Chart: Count of Best-Selling Brands by Year
+![Count of Best-Selling Brands by Year](images/marcas_mas_vendidas.png)
 
 -   Description: This horizontal bar chart shows the sales of the most popular brands by year, with separate bars for each year.
 
@@ -126,7 +126,7 @@ Conclusion: Toyota and Volkswagen are the most competitive brands, while luxury 
 
 5\. Geographical Distribution of Owners
 
-Chart: Percentage of Owners by Province
+![Percentage of Owners by Province](images/distribucion_titulares.png)
 
 -   Description: This pie chart shows the distribution of owners by province.
 
@@ -158,7 +158,7 @@ Conclusion: Most owners are concentrated in Argentina's most populated and econo
 
 6\. Demographic Profile of Owners
 
-6.1. Gender Count of Owners
+![Gender Count of Owners](images/genero_titulares.png)
 
 -   Description: This pie chart shows the distribution of owners by gender.
 
@@ -182,6 +182,8 @@ Conclusion: While men predominate among owners, women have a significant presenc
 
 6.2. Count by Type of Person
 
+![Count by Type of Person](images/tipo_de_persona.png)
+
 -   Description: This pie chart shows the distribution of owners by type of person (individual or legal entity).
 
 -   Data:
@@ -201,6 +203,8 @@ Conclusion: The market is dominated by individual buyers, but companies also hav
 * * * * *
 
 6.3. Number of Owners by Gender and Year (2019-2024)
+
+![Number of Owners by Gender and Year](images/recuento_titulares.png)
 
 -   Description: This stacked bar chart shows the number of owners by gender (female and male) for each year.
 
@@ -230,6 +234,8 @@ Conclusion: The gender distribution among owners is stable, with greater male pa
 
 6.4. Age Distribution of Owners by Gender (2019-2024)
 
+![Age Distribution of Owners by Gender](images/edades_titulares.png)
+
 -   Description: This histogram shows the age distribution of owners by gender (female and male).
 
 -   Data:
@@ -249,6 +255,8 @@ Conclusion: Car buyers are primarily middle-aged adults, consistent with the pur
 * * * * *
 
 6.5. Average Age of Owners by Gender and Year (2019-2024)
+
+![Average Age of Owners by Gender and Year](images/edad_promedio_titulares.png)
 
 -   Description: This multi-line chart shows the average age of owners by gender over the years.
 
@@ -272,6 +280,8 @@ Conclusion: Male owners tend to be slightly older than female owners, but the av
 
 7.1. Count of Vehicle Origin
 
+![Count of Vehicle Origin](images/origen_automotor.png)
+
 -   Description: This pie chart shows the distribution of cars by origin (national, imported, Protocol 21).
 
 -   Data:
@@ -293,6 +303,8 @@ Conclusion: The Argentine market favors national cars and those under Protocol 2
 * * * * *
 
 7.2. Count of Vehicle Origin by Year
+
+![Count of Vehicle Origin by Year](images/recuento_origen_automotor.png)
 
 -   Description: This stacked bar chart shows the distribution of cars by origin for each year.
 
@@ -316,7 +328,7 @@ Conclusion: The trend toward Protocol 21 cars suggests an increase in imports fr
 
 8\. Vehicle Usage Type
 
-8.1. Percentage of Car Registrations by Usage Type
+![Vehicle Usage Type](images/automotor_tipo_de_uso.png)
 
 -   Description: This pie chart shows the distribution of cars by usage type (private, official, public).
 
@@ -338,29 +350,10 @@ Conclusion: The automotive market is clearly focused on private use, with minima
 
 * * * * *
 
-8.2. Percentage of Registrations by Year and Usage Type
-
--   Description: This stacked bar chart shows the distribution of usage types by year.
-
--   Data:
-
-    -   Private use: Dominates in all years, with a consistent percentage (~97%).
-
-    -   Official and public use: Remain low and stable.
-
-Analysis:
-
--   There are no significant changes in the distribution of usage types over the years, indicating stability in buyer preferences.
-
--   Private use remains overwhelmingly predominant.
-
-Conclusion: The stability in usage types reinforces that the automotive market is focused on individual consumers, with little variation in official and public uses.
-
-* * * * *
 
 9\. Vehicle Models by Year and Origin
 
-Chart: Sum of Vehicle Model Year by Year and Vehicle Origin
+![Sum of Vehicle Model Year by Year and Vehicle Origin](images/recuento_origen_automotor.png)
 
 -   Description: This multi-line chart shows the number of cars by model year and origin (national, imported, Protocol 21).
 
