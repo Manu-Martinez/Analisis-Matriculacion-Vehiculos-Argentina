@@ -11,7 +11,10 @@ Este informe presenta un análisis descriptivo de las ventas de autos en Argenti
 
 1\. Ventas Totales de Autos por Año (2019-2024)
 
-Gráfico: Ventas Totales de Autos por Año
+![Ventas Totales por Año](images/ventas_totales_anual.png)
+
+
+
 
 -   Descripción: Este gráfico de líneas muestra la evolución de las ventas totales de autos entre 2019 y 2024.
 
@@ -45,7 +48,8 @@ La tendencia general indica una recuperación post-pandemia, y la estabilizació
 
 2\. Ventas de las Marcas Más Populares por Año (2019-2024)
 
-Gráfico: Ventas de las Marcas Más Populares por Año
+![Marcas Más Populares](images/marcas_populares.png)
+
 
 -   Descripción: Este gráfico de líneas múltiples muestra las ventas de las 10 marcas más populares (Toyota, Volkswagen, Fiat, Renault, Ford, Chevrolet, Peugeot, Nissan, Citroën, Jeep) a lo largo de los años.
 
@@ -77,7 +81,7 @@ El mercado está dominado por Toyota, Volkswagen y Fiat, mientras que otras marc
 
 3\. Tipos de Automotores Más Vendidos
 
-Gráfico: Venta Total de Tipos de Automotor por Año
+![Tipos de Automotor Más Vendidos](images/autos_populares.png)
 
 -   Descripción: Este gráfico de barras horizontales muestra el recuento de unidades vendidas por tipo de automotor (sedán 5 puertas, sedán 4 puertas, pick-up, rural 5 puertas, etc.) para cada año.
 
@@ -105,7 +109,7 @@ El mercado argentino sigue prefiriendo los sedanes 5 puertas, pero hay una deman
 
 4\. Recuento de Marcas Más Vendidas por Año
 
-Gráfico: Recuento de Marcas Más Vendidas por Año
+![Marcas más vendidas](images/marcas_mas_vendidas.png)
 
 -   Descripción: Este gráfico de barras horizontales muestra las ventas de las marcas más populares por año, con barras separadas para cada año.
 
@@ -133,7 +137,7 @@ Toyota y Volkswagen son las marcas más competitivas, mientras que marcas de luj
 
 5\. Distribución Geográfica de los Titulares
 
-Gráfico: Porcentaje de Titulares de Acuerdo a sus Provincias
+![Distribución Geográfica de los Titulares](images/distribucion_titulares.png)
 
 -   Descripción: Este gráfico de torta muestra la distribución de los titulares por provincia.
 
@@ -167,7 +171,7 @@ La mayoría de los titulares se concentran en las áreas más pobladas y económ
 
 6\. Perfil Demográfico de los Titulares
 
-6.1. Recuento de Género de los Titulares
+![Perfil Demográfico de los Titulares](images/genero_titulares.png)
 
 -   Descripción: Este gráfico de torta muestra la distribución de los titulares por género.
 
@@ -193,6 +197,8 @@ Aunque los hombres predominan entre los titulares, las mujeres tienen una presen
 
 6.2. Recuento de Tipo de Persona
 
+![Recuento de Tipo de Persona](images/tipo_de_persona.png)
+
 -   Descripción: Este gráfico de torta muestra la distribución de los titulares por tipo de persona (física o jurídica).
 
 -   Datos:
@@ -214,6 +220,8 @@ El mercado está dominado por compradores individuales, pero las empresas tambi�
 * * * * *
 
 6.3. Cantidad de Titulares por Género y Año (2019-2024)
+
+![Recuento de Titulares por Género y Año](images/recuento_titulares.png)
 
 -   Descripción: Este gráfico de barras apiladas muestra la cantidad de titulares por género (femenino y masculino) para cada año.
 
@@ -245,6 +253,8 @@ La distribución de género entre los titulares es estable, con una mayor partic
 
 6.4. Distribución de Edades de los Titulares por Género (2019-2024)
 
+![Distribución de Edades de los Titulares por Género](images/edades_titulares.png)
+
 -   Descripción: Este histograma muestra la distribución de edades de los titulares por género (femenino y masculino).
 
 -   Datos:
@@ -266,6 +276,8 @@ Los compradores de autos son principalmente adultos de mediana edad, lo que es c
 * * * * *
 
 6.5. Edad Promedio de los Titulares por Género y Año (2019-2024)
+
+![Edad Promedio de los Titulares por Género y Año](images/edad_promedio_titulares.png)
 
 -   Descripción: Este gráfico de líneas múltiples muestra la edad promedio de los titulares por género a lo largo de los años.
 
@@ -291,6 +303,8 @@ Los titulares masculinos tienden a ser un poco mayores que los femeninos, pero l
 
 7.1. Recuento de Origen de Automotor
 
+![Recuento de Origen de Automotor](images/origen_automotor.png)
+
 -   Descripción: Este gráfico de torta muestra la distribución de los autos por origen (nacional, importado, protocolo 21).
 
 -   Datos:
@@ -314,6 +328,8 @@ El mercado argentino favorece los autos nacionales y los del Protocolo 21, lo qu
 * * * * *
 
 7.2. Recuento de Origen de Automotor por Año
+
+![Recuento de Origen de Automotor por Año](images/recuento_origen_automotor.png)
 
 -   Descripción: Este gráfico de barras apiladas muestra la distribución de los autos por origen para cada año.
 
@@ -341,6 +357,8 @@ La tendencia hacia autos del Protocolo 21 sugiere un aumento en la importación 
 
 8.1. Porcentaje de Inscripciones de Autos Según Tipo de Uso
 
+![Porcentaje de Inscripciones de Autos Según Tipo de Uso](images/automotor_tipo_de_uso.png)
+
 -   Descripción: Este gráfico de torta muestra la distribución de los autos por tipo de uso (privado, oficial, público).
 
 -   Datos:
@@ -363,33 +381,11 @@ El mercado automotriz está claramente orientado al uso privado, con una partici
 
 * * * * *
 
-8.2. Porcentaje de Inscripciones por Año Según Tipo de Uso
-
--   Descripción: Este gráfico de barras apiladas muestra la distribución del tipo de uso por año.
-
--   Datos:
-
-    -   Uso privado: Domina en todos los años, con un porcentaje constante (~97%).
-
-    -   Uso oficial y público: Permanecen bajos y estables.
-
-Análisis:
-
--   No hay cambios significativos en la distribución del tipo de uso a lo largo de los años, lo que indica una estabilidad en las preferencias de los compradores.
-
--   El uso privado sigue siendo abrumadoramente predominante.
-
-Conclusión:
-
-La estabilidad en el tipo de uso refuerza que el mercado automotriz está enfocado en consumidores individuales, con poca variación en los usos oficial y público.
-
-* * * * *
-
 9\. Modelos de Automotores por Año y Origen
 
-Gráfico: Suma de Automotor_año_modelo por Año y Automotor_origen
+![Modelos de Automotores por Año y Origen](images/recuento_origen_automotor.png.png)
 
--   Descripción: Este gráfico de líneas múltiples muestra la cantidad de autos por año de modelo y origen (nacional, importado, protocolo 21).
+-   Descripción: Este gráfico de barras apiladas muestra la cantidad de autos por año de modelo y origen (nacional, importado, protocolo 21).
 
 -   Datos:
 
