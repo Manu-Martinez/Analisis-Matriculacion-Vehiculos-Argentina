@@ -380,7 +380,7 @@ El mercado automotriz está claramente orientado al uso privado, con una partici
 
 * * * * *
 
-9\. Modelos de Automotores por Año y Origen
+9\. Automotores por Origen y Año
 
 ![Modelos de Automotores por Año y Origen](images/recuento_origen_automotor.png)
 
